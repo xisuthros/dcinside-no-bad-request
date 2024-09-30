@@ -2,7 +2,7 @@
   
   "manifest_version": 2,
   "name": "dcinside no bad request",
-  "version": "1.0",
+  "version": "2.0",
   "permissions": ["*://dcinside.com/*", "*://*.dcinside.com/*", "cookies"],
   "homepage_url": "https://github.com/xisuthros/dcinside-no-bad-request",
   "icons": {
